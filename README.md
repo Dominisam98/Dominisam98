@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-**Dominisam98/Dominisam98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### WELCOME
 
 
 ## My Github at a Glance
@@ -54,7 +51,7 @@
 
 <!-- Keep these for later use -->
 
-<!-- <a href="https://xxxx.net/" target="_blank">
+ <a href="https://xxxx.net/" target="_blank">
   <img src="https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
 </a> 
 
