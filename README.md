@@ -9,7 +9,7 @@
 
 
 <a href="https://github.com/dominisam98/dominisam98">
-<img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominisam98&count_private=true&langs_count=6&theme=vue-dark&layout=compact&custom_title=Lines%20of%20Code%20Written&exclude_repo=curriculum,github-slideshow,unified-setup,git-training&hide=mako, shell"/>
+<img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominisam98&count_private=true&langs_count=6&theme=vue-dark&layout=compact&custom_title=Lines%20of%20Code%20Written&exclude_repo=curriculum,github-slideshow,unified-
 
 
 ### Let's connect
