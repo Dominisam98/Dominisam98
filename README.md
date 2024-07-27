@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ![Laravel](https://img.shields.io/badge/-Laravel-red)
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about App Academy
+- 💬 Ask me about Software Development
 - 📫 How to reach me: dominiqua6@outlook.com
 - 😄 Pronouns: She/Her
 <!-- - ⚡ Fun fact: ... -->
